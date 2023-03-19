@@ -1,5 +1,3 @@
-# About
-
 **CMPUT 391** is a graded undergraduate course at the University of Alberta whose main objective is to study fundamental concepts and advanced technology underlying modern data management systems expected from expert users and database administrators.
 
 **Formal Prerequisites**: CMPUT201, CMPUT 204 or 275, and CMPUT 291.
